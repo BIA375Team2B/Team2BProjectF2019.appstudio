@@ -34,8 +34,16 @@
           "!type": "External", 
           "file": [
             "forms", 
-            "LoginPage", 
-            "LoginPage.json"
+            "HomePage", 
+            "HomePage.json"
+          ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "SignInNum", 
+            "SignInNum.json"
           ]
         }
       ], 
