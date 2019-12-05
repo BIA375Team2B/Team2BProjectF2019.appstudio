@@ -18,8 +18,16 @@
           "!type": "External", 
           "file": [
             "forms", 
-            "Form1", 
-            "Form1.json"
+            "LoginPage", 
+            "LoginPage.json"
+          ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "SignUp", 
+            "SignUp.json"
           ]
         }
       ], 
@@ -35,7 +43,7 @@
       "eslintRules": null, 
       "expanded_pmp": null, 
       "extraheaders": null, 
-      "firstform": "Form1", 
+      "firstform": "LoginPage", 
       "fontFamily": "system", 
       "homescreenTitle": "", 
       "icon": "nsb/images/192.png", 
