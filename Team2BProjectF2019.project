@@ -20,7 +20,6 @@
             "forms", 
             "LoginPage", 
             "LoginPage.json"
-
           ]
         }, 
         {
@@ -37,7 +36,30 @@
             "forms", 
             "HomePage", 
             "HomePage.json"
-
+          ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "SignInNum", 
+            "SignInNum.json"
+          ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "SignOut", 
+            "SignOut.json"
+          ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "MyAccount", 
+            "MyAccount.json"
           ]
         }
       ], 
