@@ -81,7 +81,8 @@
           "language": "BASIC", 
           "loadType": "", 
           "obfuscate": "false", 
-          "script": "<html>\n  <img src=\"https://ormond.creighton.edu/courses/375/Groups/Group-B2/images/Lower-Level.jpeg\" alt=\"LowerFloor\" usemap=\"#workmap2\" width=\"350\">\n  <map name=\"workmap2\">\n        <area shape=\"rect\" coords=\"152,128,220,153\" alt=\"Lower_Area_1\" onclick=\"myFunction10L()\">\n        <area shape=\"rect\" coords=\"132,142,160,220\" alt=\"Lower_Area_2\" onclick=\"myFunction11L()\">\n        <area shape=\"rect\" coords=\"155,195,180,325\" alt=\"Lower_Area_3\" onclick=\"myFunction12L()\">\n\t<area shape=\"rect\" coords=\"175,220,207,257\" alt=\"Lower_Area_4\" onclick=\"myFunction13L()\">\n  </map>\n</html>", 
+
+
           "src": "includes/Lower_Floor_html.cod"
         }, 
         {
@@ -94,7 +95,8 @@
           "language": "BASIC", 
           "loadType": "", 
           "obfuscate": "false", 
-          "script": "<html>\n  <img src=\"https://ormond.creighton.edu/courses/375/Groups/Group-B2/images/Main.jpeg\" alt=\"MainFloor\" usemap=\"#workmap1\" width=\"350\">\n  <map name=\"workmap1\">\n        <area shape=\"rect\" coords=\"100,82,180,160\" alt=\"Computer\" onclick=\"myFunction1M()\">\n        <area shape=\"rect\" coords=\"40,240,135,340\" alt=\"Commons\" onclick=\"myFunction2M()\">\n        <area shape=\"rect\" coords=\"155,270,200,440\" alt=\"Commons\" onclick=\"myFunction3M()\">\n        \n        \n\t\n  </map>\n  <script>\n      Function myFunction() {\n      alert(\"You clicked the computer!\");\n      }\n  </script>\n</html>\n\n", 
+
+
           "src": "includes/Main_Floor_html.cod"
         }, 
         {
@@ -107,8 +109,7 @@
           "language": "BASIC", 
           "loadType": "", 
           "obfuscate": "false", 
-          "script": "<html>\n  <img src=\"https://ormond.creighton.edu/courses/375/Groups/Group-B2/images/Upper-Level.jpeg\" alt=\"UpperFloor\" usemap=\"#workmap3\" width=\"350\">\n  <map name=\"workmap3\">\n    <area shape=\"rect\" coords=\"55,2,164,60\" alt=\"Upper_area1\" onclick=\"myFunction4U()\">\n    <area shape=\"rect\" coords=\"55,60,85,265\" alt=\"Upper_area2\" onclick=\"myFunction5U()\">\n    <area shape=\"rect\" coords=\"140,60,164,210\" alt=\"Upper_area3\" onclick=\"myFunction6U()\">\n    <area shape=\"rect\" coords=\"220,140,265,222\" alt=\"Upper_area4\" onclick=\"myFunction7U()\">\n    <area shape=\"rect\" coords=\"87,265,140,275\" alt=\"Upper_area5_1\" onclick=\"myFunction8U()\">\n    <area shape=\"rect\" coords=\"120,275,140,370\" alt=\"Upper_area5_2\" onclick=\"myFunction8U()\">\n    <area shape=\"rect\" coords=\"95,370,164,410\" alt=\"Upper_area5_3\" onclick=\"myFunction8U()\">\n    <area shape=\"rect\" coords=\"220,270,265,313\" alt=\"Upper_area5_4\" onclick=\"myFunction9U()\">\n\n\n    \n\t\n  </map>\n</html>", 
-          "src": "includes/Upper_Floor_html.cod"
+
         }
       ], 
       "configxml": null, 
