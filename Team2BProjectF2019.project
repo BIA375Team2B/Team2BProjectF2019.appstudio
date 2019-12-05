@@ -21,6 +21,14 @@
             "Form1", 
             "Form1.json"
           ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "LoginPage", 
+            "LoginPage.json"
+          ]
         }
       ], 
       "configxml": null, 
