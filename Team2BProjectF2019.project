@@ -36,7 +36,6 @@
             "forms", 
             "HomePage", 
             "HomePage.json"
-
           ]
         }, 
         {
@@ -81,8 +80,7 @@
           "language": "BASIC", 
           "loadType": "", 
           "obfuscate": "false", 
-
-
+          "script": "", 
           "src": "includes/Lower_Floor_html.cod"
         }, 
         {
@@ -95,8 +93,7 @@
           "language": "BASIC", 
           "loadType": "", 
           "obfuscate": "false", 
-
-
+          "script": "", 
           "src": "includes/Main_Floor_html.cod"
         }, 
         {
@@ -109,7 +106,40 @@
           "language": "BASIC", 
           "loadType": "", 
           "obfuscate": "false", 
-
+          "script": "", 
+          "src": "includes/Upper_Floor_html.cod"
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "StudyReport", 
+            "StudyReport.json"
+          ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "LibraryReport", 
+            "LibraryReport.json"
+          ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "postmatesDeliveryQuote", 
+            "postmatesDeliveryQuote.json"
+          ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "postmatesMakeOrder", 
+            "postmatesMakeOrder.json"
+          ]
         }
       ], 
       "configxml": null, 
