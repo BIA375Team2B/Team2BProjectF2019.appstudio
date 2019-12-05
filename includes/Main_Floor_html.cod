@@ -9,7 +9,7 @@
 	
   </map>
   <script>
-      function myFunction() {
+      Function myFunction() {
       alert("You clicked the computer!");
       }
   </script>
