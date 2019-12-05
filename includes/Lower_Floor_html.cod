@@ -1,0 +1,9 @@
+<html>
+  <img src="https://ormond.creighton.edu/courses/375/Groups/Group-B2/images/Lower-Level.jpeg" alt="LowerFloor" usemap="#workmap2" width="350">
+  <map name="workmap2">
+        <area shape="rect" coords="152,128,220,153" alt="Lower_Area_1" onclick="myFunction10L()">
+        <area shape="rect" coords="132,142,160,220" alt="Lower_Area_2" onclick="myFunction11L()">
+        <area shape="rect" coords="155,195,180,325" alt="Lower_Area_3" onclick="myFunction12L()">
+	<area shape="rect" coords="175,220,207,257" alt="Lower_Area_4" onclick="myFunction13L()">
+  </map>
+</html>

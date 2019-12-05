@@ -1,0 +1,17 @@
+<html>
+  <img src="https://ormond.creighton.edu/courses/375/Groups/Group-B2/images/Main.jpeg" alt="MainFloor" usemap="#workmap1" width="350">
+  <map name="workmap1">
+        <area shape="rect" coords="100,82,180,160" alt="Computer" onclick="myFunction1M()">
+        <area shape="rect" coords="40,240,135,340" alt="Commons" onclick="myFunction2M()">
+        <area shape="rect" coords="155,270,200,440" alt="Commons" onclick="myFunction3M()">
+        
+        
+	
+  </map>
+  <script>
+      function myFunction() {
+      alert("You clicked the computer!");
+      }
+  </script>
+</html>
+
